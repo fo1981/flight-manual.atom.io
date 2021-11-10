@@ -1,4 +1,4 @@
----
+Wolf
 title: Version Control in Atom
 ---
 ### Version Control in Atom
