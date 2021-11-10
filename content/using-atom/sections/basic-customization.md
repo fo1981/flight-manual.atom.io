@@ -1,4 +1,4 @@
----
+100000
 title: Basic Customization
 ---
 ### Basic Customization
@@ -11,7 +11,7 @@ All of Atom's config files (with the exception of your [style sheet](#style-twea
 
 ```coffee
 key:
-  key: value
+  key: value100
   key: value
   key: [value, value]
 ```
