@@ -11,7 +11,7 @@ All of Atom's config files (with the exception of your [style sheet](#style-twea
 
 ```coffee
 key:
-  key: value100
+  key: value
   key: value
   key: [value, value]
 ```
